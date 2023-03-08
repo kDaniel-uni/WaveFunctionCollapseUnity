@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b5a3dd04ab74a46b7e67fc881c58fa3, type: 3}
+  m_Name: UpNoRoad
+  m_EditorClassIdentifier: 
+  Value:
+  - {fileID: 11400000, guid: 559f0e73cf67e034a9a5ae2b9b97b324, type: 2}
+  - {fileID: 11400000, guid: b99f1797ea11357488fb0f8fa2f2003a, type: 2}
+  - {fileID: 11400000, guid: f07737a78f3311a4fafe3daaa4305464, type: 2}
+  - {fileID: 11400000, guid: 6adbd6fd18b3dde478dd575518da33c8, type: 2}
+  - {fileID: 11400000, guid: 18705d391e0feda44a71aa523819f211, type: 2}
+  - {fileID: 11400000, guid: fd6322c7c3706cf40ab85519e465d389, type: 2}
+  - {fileID: 11400000, guid: 27976f41bd0012342b676ba42505ce04, type: 2}
+  - {fileID: 11400000, guid: af07cdd63613a3f48818bc12e79fe947, type: 2}
